@@ -7,6 +7,10 @@
 * Python 2.7.12
 * Google Chrome 84.0.4147.89
 ## usage
+* `xssbot.py`在`/var/xssbot/`
+* 修改`xssbot.py`中的url和cookie后
+* 使用`python2 xssbot.py`启动即可
+
 * xssbot会访问你给定的url并从该url页面获取需要触发XSS的url然后进行访问，例如:
 `http://ip/xssurllist.php`内容如下：
 ```
