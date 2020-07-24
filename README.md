@@ -1,4 +1,5 @@
 # xssbot
+该xssbot基于selenium模拟浏览器访问给定页面触发xss
 This XSSBot uses selenium to simulate the browser for access to trigger XSS.
 ## Environment
 * Ubuntu 16.04
