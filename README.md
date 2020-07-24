@@ -25,6 +25,8 @@ xssbot提取后会添加你指定的cookie并访问
 使用效果：
 ![](https://s1.ax1x.com/2020/07/24/UjNWod.png)
 
+![](https://s1.ax1x.com/2020/07/24/UjdAR1.png)
+
 > 建议提供url的接口一次提供一个url
 
 * The xssbot will visit a provided url page, such as xssurllist.php
